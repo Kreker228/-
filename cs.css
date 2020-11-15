@@ -1,0 +1,37 @@
+div {
+    display: block;
+    border: 3px solid blue;
+    float: left;
+    width: 100%;
+    height: 80px;
+}
+.text {
+    display: block;
+    border: 3px solid blue;
+    float: left;
+    width: 49%;
+}
+.mouse {
+    display: block;
+    border: 3px solid blue;
+    float: left;
+    width: 50%;
+}
+.xray {
+    display: block;
+    border: 3px solid blue;
+    float: right;
+    width: 33%;
+}
+.gtr {
+        display: block;
+        border: 3px solid blue;
+        float: right;
+        width: 33%;
+    }
+    .free {
+        display: block;
+        border: 3px solid blue;
+        float: right;
+        width: 33%;
+    }
