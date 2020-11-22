@@ -1,0 +1,52 @@
+.GHY {
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    background: linear-gradient(hsl(249, 58%, 47%), #b123b6);
+}
+img {
+    height: 180px;
+    width: 110px;
+}
+.FRT {
+    position: absolute;
+    top: 1%;
+    left: 10%;
+    color: white;
+}
+.hgt {
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    background: linear-gradient(hsl(0, 61%, 34%), #e63333);
+}
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.hgy {
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    background: linear-gradient(to right, #000000 0%, #32134e 100%);
+}
+.erty {
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    background: linear-gradient(hsl(0, 76%, 37%), #000000);
+}
+.EDF {
+    position: absolute;
+    top: 1%;
+    left: 38%;
+    color: rgb(255, 255, 255);
+}
+.fgh {
+    height: 180px;
+    width: 150px; 
+}
+    
